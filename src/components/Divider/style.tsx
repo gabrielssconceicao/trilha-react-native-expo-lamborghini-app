@@ -3,6 +3,7 @@ import { StyleSheet } from 'react-native';
 export const styles = StyleSheet.create({
   dividerContainer: {
     alignItems: 'center',
+    width: '100%',
   },
   divider: {
     alignItems: 'center',
