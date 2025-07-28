@@ -41,4 +41,17 @@ export const styles = StyleSheet.create({
     height: '100%',
     resizeMode: 'contain',
   },
+  priceLableContainer: {
+    width: '100%',
+    flexDirection: 'row',
+    justifyContent: 'space-around',
+    paddingBottom: 10,
+    alignItems: 'center',
+    marginTop: 10,
+  },
+  priceLable: {
+    color: '#fff',
+    fontSize: 22,
+    fontWeight: 'bold',
+  },
 });
